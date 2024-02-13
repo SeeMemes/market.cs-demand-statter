@@ -3,7 +3,7 @@ package cs.stats.data;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import cs.stats.data.entities.TmSkinInfoEntity;
+import cs.stats.data.entities.tm.TmSkinInfoEntity;
 import org.apache.commons.text.StringEscapeUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
