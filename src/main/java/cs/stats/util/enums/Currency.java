@@ -1,4 +1,4 @@
-package cs.stats;
+package cs.stats.util.enums;
 
 public enum Currency {
     USD(1000),
